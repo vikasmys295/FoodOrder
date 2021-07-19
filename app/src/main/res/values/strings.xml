@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+    <string name="search">search</string>
+    <string name="details">Restaurant Details</string>
+    <string name="restaurants">Best Restaurants in Mysore</string>
+    <string name="order">Order food now</string>
+</resources>
